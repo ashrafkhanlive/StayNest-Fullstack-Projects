@@ -392,18 +392,6 @@ docker run -p 8080:8080 staynest-backend
 
 ---
 
-# 👨‍💻 Author
-
-Developed using:
-
-- Next.js
-- React
-- Spring Boot
-- PostgreSQL
-- Stripe
-- Google Maps API
-
----
 ## 🌐 Live Demo
 
 🚀 **Frontend:** https://stay-nest-fullstack-projects.vercel.app/
