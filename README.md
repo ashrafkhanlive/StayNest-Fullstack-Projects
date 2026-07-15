@@ -404,14 +404,39 @@ Developed using:
 - Google Maps API
 
 ---
+## 🌐 Live Demo
+
+🚀 **Frontend:** https://stay-nest-fullstack-projects.vercel.app/
+
+🔗 **Backend API:** https://staynest-fullstack-projects.onrender.com
 
 # 📄 License
 
 This project is licensed under the MIT License.
+---
+
+# 👨‍💻 Author
+
+<div align="center">
+
+## Ashraf Khan
+
+**Full Stack Developer | Java • Spring Boot • Next.js • React**
+
+Passionate about building scalable, modern web applications with clean architecture and great user experiences.
+
+🌐 **Portfolio:** Coming soon 
+
+💼 **LinkedIn:** https://linkedin.com/ashrafkhancode
+
+🐙 **GitHub:** https://github.com/ashrafkhanlive
+
+📧 **Email:** ashrafkhan.connect@gmail.com
 
 ---
 
-⭐ If you like this project, consider giving it a star on GitHub!
-````
+### ⭐ If you like this project, don't forget to star the repository!
 
-This README combines the frontend and backend into a single, polished GitHub landing page suitable for a full-stack project.
+Made with ❤️ by **Ashraf Khan**
+
+</div>
